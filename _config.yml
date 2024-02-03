@@ -1,12 +1,10 @@
-name: Julien Eyriès home page
-title: Julien Eyriès
-description: My home page
+name: Julien Eyriès blog
+title: Julien Eyriès blog
+description: Julien Eyriès blog
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 theme: minima
 show_excerpts: true
-header_pages:
-  - about.md
 minima:
   social_links:
     twitter: jeyries
