@@ -2,7 +2,7 @@ name: Julien Eyriès blog
 title: Julien Eyriès blog
 description: Julien Eyriès blog
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 theme: minima
 show_excerpts: true
 minima:
