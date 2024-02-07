@@ -18,4 +18,4 @@ No need for complex functions either, my mom just needs the basic operators: add
 
 More information here:
 
-[Grandma Calculator](http://www.jeyries.fr/calculator)
+[Grandma Calculator](https://www.jeyries.fr/calculator)
