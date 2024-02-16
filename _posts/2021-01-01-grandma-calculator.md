@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grandma Calculator "
+title: "Grandma Calculator"
 date: 2021-01-01
 ---
 
